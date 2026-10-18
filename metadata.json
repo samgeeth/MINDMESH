@@ -1,0 +1,8 @@
+{
+  "name": "MINDMESH — Digital Solutions for Local Businesses",
+  "description": "From local problems to digital solutions. MINDMESH helps retail shops, salons, clinics, and local services launch websites, digital catalogs, QR codes, and daily live updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
